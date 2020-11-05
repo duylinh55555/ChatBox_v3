@@ -1,0 +1,14 @@
+D:\Visual Sudio 2019\ChatBox_v3\bin\Debug\ChatBox_v3.exe.config
+D:\Visual Sudio 2019\ChatBox_v3\bin\Debug\ChatBox_v3.exe
+D:\Visual Sudio 2019\ChatBox_v3\bin\Debug\ChatBox_v3.pdb
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.Properties.Resources.resources
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.exe
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.pdb
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.Client.resources
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.Login.resources
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\ChatBox_v3.DangKy.resources
+D:\Visual Sudio 2019\ChatBox_v3\bin\Debug\CircularProgressBar.dll
+D:\Visual Sudio 2019\ChatBox_v3\bin\Debug\WinFormAnimation.dll
+D:\Visual Sudio 2019\ChatBox_v3\obj\Debug\Client.csproj.CopyComplete

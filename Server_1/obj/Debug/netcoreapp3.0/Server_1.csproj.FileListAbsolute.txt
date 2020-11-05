@@ -1,0 +1,11 @@
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.exe
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.deps.json
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.runtimeconfig.json
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.runtimeconfig.dev.json
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.dll
+D:\Visual Sudio 2019\Server_1\bin\Debug\netcoreapp3.0\Server_1.pdb
+D:\Visual Sudio 2019\Server_1\obj\Debug\netcoreapp3.0\Server_1.csprojAssemblyReference.cache
+D:\Visual Sudio 2019\Server_1\obj\Debug\netcoreapp3.0\Server_1.AssemblyInfoInputs.cache
+D:\Visual Sudio 2019\Server_1\obj\Debug\netcoreapp3.0\Server_1.AssemblyInfo.cs
+D:\Visual Sudio 2019\Server_1\obj\Debug\netcoreapp3.0\Server_1.dll
+D:\Visual Sudio 2019\Server_1\obj\Debug\netcoreapp3.0\Server_1.pdb
